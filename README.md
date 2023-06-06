@@ -26,7 +26,7 @@ I'm not responsible for any loss of files, laptop or hardware damage, etc. Every
 ## 🍎 macOS Compatibility
 Due to the limitations of the manufacturer-shipped Intel wireless card, the maximum macOS version that can be installed on the device without changing the internals and having everything work *out of the box* is *macOS Version 11 (Big Sur)*.
 
-Theoretically, this EFI configuration should work perfectly fine on higher macOS versions if the wireless card is swapped for something that macOS supports natively.
+Theoretically, this EFI configuration should work perfectly fine on higher macOS versions if the wireless card is swapped for something that macOS supports natively, though that can't be guaranteed.
 
 
 ##  ⚙️ BIOS Configuration
