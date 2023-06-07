@@ -1,4 +1,5 @@
 
+
 # Lenovo IdeaPad 330S-15IKB (81F5) | OpenCore EFI Configuration
 
 ## ⚠️ Read before continuing
@@ -43,5 +44,10 @@ Optional changes:
  - Configuration / One Key Battery - Disabled (Because it's annoying 😒)
  - Exit / OS Optimized Defaults - Disable
  - Configuration / Graphic Device - UMA Only (Set if you have graphic issues)
+
+## Credits
+
+ - [dortania](https://github.com/dortania)  for the installation guide
+ -  [acidanthera](https://github.com/acidanthera)  for OpenCorePkg
 
 ## More to be added...
